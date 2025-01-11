@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }) {
           content="GGSIPU, GGSIPU EDC, USAR, Uday Gupta, CSE, B.Tech, Software Developer, Website Developer, AI-ML Engineer, AI-ML Developer, TensorFlow"
         />
         <link rel="manifest" href="/manifest.json" />
-        <title>Uday Gupta</title>
+        <title>Portfolio - Uday Gupta</title>
       </Head>
       <Component {...pageProps} />
     </>
