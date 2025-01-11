@@ -128,7 +128,7 @@ const Contact = () => {
             </div>
           </div>
         </div>
-        <form role="form" className="php-email-form mt-4" onSubmit={sendMail}>
+        {/* <form role="form" className="php-email-form mt-4" onSubmit={sendMail}>
           <div className="row">
             <div className="col-md-6 form-group">
               <input
@@ -198,7 +198,7 @@ const Contact = () => {
               Your message has been sent. Thank you!
             </div>
           </div>
-        </form>
+        </form> */}
       </div>
     </section >
   );
