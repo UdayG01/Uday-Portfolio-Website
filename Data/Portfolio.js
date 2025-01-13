@@ -93,7 +93,7 @@ const projects = [
     desc: [
       "A tool that compares custom CNNs, pre-trained VGG19, ResNet50 for brain tumor detection",
     ],
-    urls: [[[git], "https://github.com/Brain-Tumor-Detection"]],
+    urls: [[[git], "https://github.com/UdayG01/Brain-Tumor-Detection"]],
   },
   {
     name: "LooksAI",
